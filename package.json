@@ -1,15 +1,14 @@
 {
-  "name": "test",
+  "name": "PIXI.JS-Minimum",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
     "build": "webpack",
     "start": "webpack serve"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["PIXI.JS", "webpack"],
+  "author": "zaturendo",
+  "license": "",
   "devDependencies": {
     "@babel/core": "^7.18.9",
     "@babel/preset-env": "^7.18.9",
